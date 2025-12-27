@@ -1,36 +1,76 @@
-<!-- PROFILE BANNER -->
+<!-- MAIN HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Building%20the%20Future%20of%20E-Commerce&fontSize=34&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,50:243b55,100:141e30&height=220&section=header&text=Ars%20•%20Founder%20of%20Clix&fontSize=36&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hey 👋 I'm Arsh</h1>
-<h3 align="center">Founder • Builder • Startup Mindset</h3>
+<h3 align="center">
+Founder • Builder • Visionary
+</h3>
 
 <p align="center">
-  🚀 Building a low-budget E-commerce platform <br/>
-  💡 Anyone can start their own online store for just <b>$1</b> <br/>
-  🤝 Looking for vibe coders, builders & dreamers
+Building products, teams, and ideas under <b>Clix</b>
 </p>
 
 ---
 
-## 🌍 About My Startup Vision
+## 🧠 Who I Am
 
-I’m currently working on a **next-gen e-commerce platform** where **anyone can launch their own online store with almost zero cost**.
-
-💸 **Price:** Just **$1**  
-🎯 **Goal:** Empower creators, small businesses & beginners  
-⚡ **Focus:** Simplicity, scalability & performance  
-
-I have **many ideas** and I’m actively building & experimenting.
+- 👤 **Name:** Ars  
+- 🏢 **Founder:** Clix  
+- 🚀 **Role:** Product Builder & Startup Lead  
+- 🌱 **Focus:** Ideas → Products → Scalable Systems  
+- 🤝 **Open to:** Collaborations, contributors & vibe coders  
 
 ---
 
-## 🛠️ Tech Stack (Growing Fast)
+## 🏗️ About Clix
+
+**Clix** is a creative tech company working on **multiple digital projects** across different domains.
+
+We don’t stick to one idea.  
+We **build, test, improve, and scale**.
+
+---
+
+## 🚀 Projects at Clix
+
+### 🛒 E-Commerce Platform
+- Start your own online store with **very low budget**
+- Built for creators & beginners
+- Scalable & modern architecture
+
+---
+
+### 🧩 Internal Tools
+- Automation tools
+- Admin dashboards
+- Productivity systems
+
+---
+
+### 🌐 Web Platforms
+- Business websites
+- Custom web apps
+- Startup MVPs
+
+---
+
+### 🧪 Experimental Ideas
+- Early-stage concepts
+- SaaS experiments
+- Community-driven builds
+
+> More projects are always in progress.
+
+---
+
+## 🛠️ Tech & Tools
 
 ```txt
-Frontend   : HTML • CSS • JavaScript • React
-Backend    : Node.js • Express
-Database   : MongoDB / Firebase
-DevOps     : GitHub • Vercel • Netlify
-Design     : Figma • UI/UX Focused
+Languages   : JavaScript • HTML • CSS
+Frontend    : React
+Backend     : Node.js • Express
+Database    : MongoDB • Firebase
+Design      : Figma
+Deployment  : Vercel • Netlify
+Workflow    : GitHub • Open Source
